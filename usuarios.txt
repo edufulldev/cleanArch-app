@@ -1,0 +1,1 @@
+[Usuario{cpf='999.888.777-66', nome='Miguel lopes', nascimento=1930-06-12, email='miguel@email.com', endereco=null}, Usuario{cpf='777.666.555-66', nome='Eron cesar', nascimento=1984-11-10, email='eron@email.com', endereco=null}, Usuario{cpf='666.555.444-66', nome='Jessica cristiane', nascimento=1991-01-15, email='jessica@email.com', endereco=null}]
